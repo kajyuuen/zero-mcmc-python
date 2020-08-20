@@ -9,6 +9,23 @@
 - [x] Chapter 4 メトロポリス法
 - [x] Chapter 5 多変数のメトロポリス法
 - [x] Chapter 6 よく使うアルゴリズムとその使用例
-- [ ] Chapter 7 マルコフ連鎖モンテカルロ法の応用例
-- [ ] https://github.com/Ryuta339/MCMC-Sample-Codes のPython実装
-
+- [x] Chapter 7 マルコフ連鎖モンテカルロ法の応用例
+- [ ] https://github.com/masanorihanada/MCMC-Sample-Codes のPython実装
+    - [ ] 2d_Ising_Heat_Bath.cpp
+    - [ ] 2d_Ising_Metropolis.cpp
+    - [ ] 2d_Ising_Wolff.cpp
+    - [ ] Bayse_Gaussian_Gibbs.cpp
+    - [x] Bayse_Gaussian_HMC_2variables.cpp
+    - [ ] Bayse_Gaussian_Metropolis.cpp
+    - [x] Bayse_coin_toss_metropolis.c
+    - [x] Gaussian_Gibbs.cpp
+    - [x] Gaussian_HMC.cpp
+    - [x] Gaussian_HMC_multi_variables.cpp
+    - [x] Gaussian_Metropolis.c
+    - [x] Gaussian_Metropolis_2variables.c
+    - [ ] matrix_HMC.cpp
+    - [x] pi_MC.c
+    - [x] pi_MC_integral.c
+    - [ ] replica_salesman.c
+    - [ ] replica_simple_example.c
+    - [x] three_sphere.c

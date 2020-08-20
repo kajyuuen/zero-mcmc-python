@@ -1,6 +1,6 @@
 # ゼロからできるMCMC Python実装
 
-「ゼロからできるMCMC」のコードをpython/numpyで再現するレポジトリです。
+「[ゼロからできるMCMC マルコフ連鎖モンテカルロ法の実践的入門](https://www.kspub.co.jp/book/detail/5201749.html)」のコードをPython/NumPyで再現するレポジトリです。
 
 ## 進捗状況
 

@@ -17,7 +17,7 @@ def box_muller():
     return p, q
 
 # 作用S(x)の計算
-def  calc_action(x):
+def calc_action(x):
     action = 1/2*(x**2)
     return action
 

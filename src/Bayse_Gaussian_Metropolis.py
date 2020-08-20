@@ -81,7 +81,7 @@ def main():
             mu = np.copy(backup_mu)
 
         if (i+1) % n_skip == 0:
-            print("{}\n{}\n".format(A, mu, n_accept/(i+1)))
+            print("{}\n{}\n{}\n".format(A, mu, n_accept/(i+1)))
 
 
 if __name__ == "__main__":

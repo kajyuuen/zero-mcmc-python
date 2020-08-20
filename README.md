@@ -2,6 +2,11 @@
 
 「[ゼロからできるMCMC マルコフ連鎖モンテカルロ法の実践的入門](https://www.kspub.co.jp/book/detail/5201749.html)」のコードをPython/NumPyで再現するレポジトリです。
 
+## リポジトリの構成
+
+- `notebook`: 本の記述に対応するjupyter notebook
+- `src`: [サンプルプログラム](https://github.com/masanorihanada/MCMC-Sample-Codes )のPython実装
+
 ## 進捗状況
 
 - [x] Chapter 2 そもそもモンテカルロ法とは

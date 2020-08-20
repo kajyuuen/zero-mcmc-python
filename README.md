@@ -14,7 +14,7 @@
     - [ ] 2d_Ising_Heat_Bath.cpp
     - [ ] 2d_Ising_Metropolis.cpp
     - [ ] 2d_Ising_Wolff.cpp
-    - [ ] Bayse_Gaussian_Gibbs.cpp
+    - [x] Bayse_Gaussian_Gibbs.cpp
     - [x] Bayse_Gaussian_HMC_2variables.cpp
     - [x] Bayse_Gaussian_Metropolis.cpp
     - [x] Bayse_coin_toss_metropolis.c

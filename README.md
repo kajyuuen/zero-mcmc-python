@@ -32,5 +32,5 @@
     - [x] pi_MC.c
     - [x] pi_MC_integral.c
     - [ ] replica_salesman.c
-    - [ ] replica_simple_example.c
+    - [x] replica_simple_example.c
     - [x] three_sphere.c
